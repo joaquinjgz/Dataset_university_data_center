@@ -25,8 +25,6 @@ The dataset was obtained using the three-phase version of the device described i
 
 J. Garrido-Zafra, A. R. Gil-de-Castro, R. Savariego-Fernandez, M. Linan-Reyes, F. Garcia-Torres and A. Moreno-Munoz, "IoT Cloud-Based Power Quality Extended Functionality for Grid-Interactive Appliance Controllers," IEEE Transactions on Industry Applications, vol. 58, no. 3, pp. 3909-3921, May-June 2022. https://doi.org/10.1109/TIA.2022.3160410
 
-This device enables cloud-based power quality monitoring with extended functionalities tailored for grid-interactive appliance controllers.
-
 ## Technical Methodology
 
 Harmonic phase angles were calculated using the **prevailing phasor method**, which aligns each harmonic’s angle reference with the dominant fundamental component. This ensures temporal coherence and meaningful comparison across time intervals.
@@ -80,5 +78,5 @@ Each record includes:
 
 If you use this dataset, please cite it as:
 
-J. Garrido-Zafra, R. D. Rodríguez-Cantalejo, A. Gil-de-Castro, and A. Moreno-Muñoz, "Three-Phase Power System Harmonic Dataset from a University Data Center," 2025. [Online]. Available: https://github.com/joaquinjgz/Dataset_university_data_center
+J. Garrido-Zafra, R. D. Rodriguez-Cantalejo, A. Gil-de-Castro, and A. Moreno-Muñoz, "Three-Phase Power System Harmonic Dataset from a University Data Center," 2025. [Online]. Available: https://github.com/joaquinjgz/Dataset_university_data_center
 
