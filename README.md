@@ -80,5 +80,5 @@ Each record includes:
 
 If you use this dataset, please cite it as:
 
-J. Garrido-Zafra, R. D. Rodríguez-Cantalejo, A. Gil-de-Castro, and A. Moreno-Muñoz, "Three-Phase Power System Harmonic Dataset from a University Data Center," 2025. [Online]. Available: https://github.com/tu_usuario/tu_repositorio
+J. Garrido-Zafra, R. D. Rodríguez-Cantalejo, A. Gil-de-Castro, and A. Moreno-Muñoz, "Three-Phase Power System Harmonic Dataset from a University Data Center," 2025. [Online]. Available: https://github.com/joaquinjgz/Dataset_university_data_center
 
